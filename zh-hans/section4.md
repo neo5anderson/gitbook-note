@@ -26,5 +26,5 @@ $$
 a \ne 0
 $$
 
-
+version: {{ gitbook.version }}
 

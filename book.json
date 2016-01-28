@@ -1,7 +1,15 @@
 {
     "plugins": [
+        "asciitree",
+        "mathjax"
     ],
     "pluginsConfig": {
+        "asciitree": {
+            "leadingChar": "no need"
+        },
+        "mathjax": {
+            "forceSVG": true
+        }
     },
 
     "variables": {
