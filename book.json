@@ -1,0 +1,15 @@
+{
+    "plugins": [
+    ],
+    "pluginsConfig": {
+    },
+
+    "variables": {
+        "host": "jill.org",
+        "authors": [
+            { "name": "Samy" },
+            { "name": "Aaron" }
+        ]
+    }
+}
+
